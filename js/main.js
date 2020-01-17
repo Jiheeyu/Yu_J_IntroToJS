@@ -7,7 +7,7 @@
  console.log("some message - from Javascript");
 
  // find the button element on the page by its ID with Javascript
- let theButton = document.querySelector("#mybutton"),
+ let
  //getElementById
      theHeading = document.querySelector('h1'),
      //svgImage = document.querySelector("#svgGraphic"),
